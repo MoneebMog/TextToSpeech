@@ -25,4 +25,3 @@ function speak() {
   });
   synth.speak(utterance);
 }
-setTimeout(speak,100)
